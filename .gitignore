@@ -71,11 +71,11 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
 Content/LiteCityPark/Maps/Showcase.umap
 Content/LiteCityPark/Maps/Showcase.umap
 Content/LiteCityPark/Maps/Showcase.umap
